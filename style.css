@@ -1,0 +1,29 @@
+body {
+	background-image: url("IMG_20230507_092548_955.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.picture{
+	width: 215px;
+	height: 215px;
+	margin-left: 175px;
+	margin-top: 493px;
+}
+.phop{
+	width: 215px;
+	height: 215px;
+	margin-left: 175px;
+	margin-top: 20px;
+}
+.etap {
+	width: 215px;
+	height: 215px;
+	margin-left: 372px;
+}
+p{
+	text-align: center;
+	font-size: 59px;
+	margin-top: 535px;
+	color: white;
+	font-weight: bold;
+}
